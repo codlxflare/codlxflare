@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Maxim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm a student at the Higher School of Economics in Nizhny Novgorod </h3>
+<h3 align="center">I'm a student at the Higher School of Economics </h3>
 <h3 align="center">  <img src="https://github.com/codlxflare/codlxflare/assets/148866504/c843e686-056b-4c97-9bf1-ef385fa7bad8" height="40"/>
 </h3>
 
-- 🌱 I'm focusing on programming and web development
+
 - 📫 How to reach me maxhodirev@yandex.ru
 
 ---
